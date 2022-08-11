@@ -7,7 +7,7 @@ export function QRCodeCard() {
         <img src="image-qr-code.png" alt="QR Code" />
       </div>
       <div className={styles.textContainer}>
-        <h2>Improve your front-end skills by building projects</h2>
+        <h1>Improve your front-end skills by building projects</h1>
         <p>
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
