@@ -5,6 +5,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <title>QR Code Component</title>
           <link rel="icon" type="image/x-icon" href="favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
