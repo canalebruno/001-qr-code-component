@@ -3,7 +3,7 @@ import Document, { Head, Html, NextScript, Main } from "next/document";
 export default class MyDocument extends Document {
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           <title>QR Code Component</title>
           <link rel="icon" type="image/x-icon" href="favicon.ico" />
